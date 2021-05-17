@@ -1,6 +1,6 @@
 <div align="center" id="top">
   <h3>Financial Project</h3>
-  <img height="500" src="https://github.com/TeoNogueira/Financial-Project/blob/master/App_Financial.gif">
+  <img height="420" src="https://github.com/TeoNogueira/Financial-Project/blob/master/App_Financial.gif">
 
   &#xa0;
 
